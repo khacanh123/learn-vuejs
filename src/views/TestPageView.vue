@@ -349,6 +349,8 @@ onMounted(() => {
     console.log('====================================');
     console.log(listQuestion.value);
     console.log('====================================');
+    let a = 1;
+    const b = 1
 })
 
 
