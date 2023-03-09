@@ -36,4 +36,9 @@ const choiceAnswer = (idAnswer) => {
     })
     emit('check', idAnswer)
 }
+const checkBoolean = () => {
+    console.log('====================================');
+    console.log(typeof true);
+    console.log('====================================');
+}
 </script>
